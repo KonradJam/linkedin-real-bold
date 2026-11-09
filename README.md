@@ -16,7 +16,7 @@ The extension changes the editable content in your browser. Whether formatting s
 
 ## Screenshots
 
-![LinkedIn Real Bold in action](assets/screenshot.png.png)
+![LinkedIn Real Bold in action](assets/screenshot.png)
 
 ## Supported Browsers
 
