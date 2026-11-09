@@ -1,0 +1,33 @@
+
+# Dependencies
+node_modules/
+
+# Test results
+coverage/
+.nyc_output/
+playwright-report/
+test-results/
+
+# Build artifacts
+dist/
+web-ext-artifacts/
+*.zip
+*.xpi
+
+# System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local editor settings
+.vscode/
+.idea/
+
+# Local environment
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
